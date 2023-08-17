@@ -1,4 +1,4 @@
-ID,Treated,Age,Education_years,Married,No_Degree,Wage_1974,Wage_1975,Wage_1978
+ID,Training,Age,Education_years,Married,No_Degree,Wage_1974,Wage_1975,Wage_1978
 0,False,23,10,0,1,0,0,0
 1,False,26,12,0,0,0,0,12383.68
 2,False,22,9,0,1,0,0,0
